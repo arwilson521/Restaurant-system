@@ -14,10 +14,15 @@
   The system will fit the objectives of the company by shortening the amount of time spent between the time the order is taken and the time the back of house gets the order.
 ## Glossary
   System- The program that is running on the device of the restaurant
+  
   servers- staff that takes the order as opposed to internet servers
+  
   interface- the interactive screen as seen by the users
+  
   front-end- the user interface as seen by employees using the program
+  
   back-end - the behind the scenes of the program, coordinates data flow
+  
   database - Stores persistent data
 ## user requirement definitions
   This system is designed to automate certain workflows for each parts of the staff
