@@ -28,12 +28,17 @@
   This system is designed to automate certain workflows for each parts of the staff
   ### Waitstaff:
   Send orders
+  
   define order needs
+  
   generate bills
+  
   process payments
   ### Back of house:
   Recieve orders
+  
   Mark orders done or in progress
+  
   update food status
 ## System Architecture
   ### Overview
