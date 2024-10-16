@@ -1,12 +1,18 @@
 # Restaurant-system
 ## Preface
-  ###  Version 0.0.0
+  ###  Version 0.0.1
   ### Introduction:
-  Welcome to version 0.0.0 of the Restaurant interface system. This program is developed to ease the process between the servers ordering and the orders getting to the chefs behind the line
+  Welcome to version 0.0.1 of the Restaurant interface system. This program is developed to ease the process between the servers ordering and the orders getting to the chefs behind the line
   ### Current Features:
-  none
+  **Servers**
+  add orders to list, send orders to chefs, clear orders due to mistakes.
+  **Chefs**
+  can mark food done or undo due to mistakes
+  **Cashier**
+  WIP
   ### Future Features:
-  tbd
+  **Cashier**
+  ability to total item prices, ability to close tickets
   ### Limitations:
   as this is the first version, there may be bugs or issues. stay up to date to avoid the bugs that are found.
 ## Introduction
@@ -29,11 +35,7 @@
   ### Waitstaff:
   Send orders
   
-  define order needs
-  
-  generate bills
-  
-  process payments
+
   ### Back of house:
   Recieve orders
   
