@@ -1,4 +1,6 @@
 # Restaurant-system
+Austin Wilson
+ESOF 322
 ## Preface
   ###  Version 0.0.1
   ### Introduction:
