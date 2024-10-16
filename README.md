@@ -56,4 +56,5 @@
   This part of the program is written in (tbd, probably mysql)
 ## System Models
   ### The program starts from the customer, who sends the order to the server who sends the order to the restaurant system. the system then proceeds to forward the order to the back of house, who can update the completion of the order when it is completed.
-  ![image](https://github.com/user-attachments/assets/fa393652-d07c-4959-af0d-df2546c43c47)
+ ![Screenshot 2024-10-16 141913](https://github.com/user-attachments/assets/c75e3723-7017-4ab0-807d-835f4d1db249)
+
