@@ -3,10 +3,10 @@ Austin Wilson
 
 ESOF 322
 
-##File descriptions
-###Cashier
+## File descriptions
+### Cashier
 Holds the files for the cashier form and cs files. (not done)
-###Chef
+### Chef
 Holds the Chef form and cs files
 ### Server
 Holds the server form and cs files
